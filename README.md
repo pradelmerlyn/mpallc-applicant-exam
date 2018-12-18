@@ -22,7 +22,37 @@ Kindly put your code on the provided .js file inside the part 1 folder.
 			"50" : 1
 		}
  ```
-2. Using the <a href="http://jsonplaceholder.typicode.com/" target="_blank">JSONPlaceholder service(http://jsonplaceholder.typicode.com/)</a>, create a function that makes 
+2. Given the object:
+```javascript
+let categories = [
+	{ id:'animals', parent: null },
+	{ id:'mammals', parent: 'animals' },
+	{ id:'cats', parent: 'mammals' },
+	{ id:'dogs', parent: 'mammals' },
+	{ id:'chihuahua', parent: 'dogs' },
+	{ id:'labrador', parent: 'dogs' },
+	{ id:'persian', parent: 'cats' },
+	{ id:'siamese', parent: 'cats' }
+]
+```
+Create a function that mutates the object to output:
+```json
+{
+    "animals": {
+        "mammals": {
+            "cats": {
+                "persian": {},
+                "siamese": {}
+            },
+            "dogs": {
+                "chihuahua": {},
+                "labrador": {}
+            }
+        }
+    }
+}
+```
+3. Using the <a href="http://jsonplaceholder.typicode.com/" target="_blank">JSONPlaceholder service(http://jsonplaceholder.typicode.com/)</a>, create a function that makes 
 	 http requests from <a href="http://jsonplaceholder.typicode.com/users" target="_blank">http://jsonplaceholder.typicode.com/users</a> and <a href="http://jsonplaceholder.typicode.com/posts" target="_blank">http://jsonplaceholder.typicode.com/posts</a> 
 	 and then create the following json object format from the results:
 ```
