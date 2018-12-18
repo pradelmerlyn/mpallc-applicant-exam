@@ -6,7 +6,7 @@ Included in this repository are two folders containing the two parts of the exam
 1. Use of frameworks such as React, Vue, Angular, etc. is not allowed.
 2. Use of other libraries is not allowed.
 3. You are only allowed to code in Javascript es5/es6.
-4. Html and styling with css is required.
+4. Html and styling with css is required and must be responsive.
 
 ## Part 1 - Javascript Coding Challenge
 Kindly put your code on the provided .js file inside the part 1 folder.
@@ -62,7 +62,7 @@ Kindly put your code on the provided .js file inside the part 1 folder.
     ...and so on
 ]
 ```
-## Part 2 - Styling and Logic
+## Part 2 - Responsive Menu Layout
 Using the provided HTML file inside the part 2 folder, kindly create a mobile web prototype that will list ALL the items separated by category from the given JSON object. 
 
 ```javascript
