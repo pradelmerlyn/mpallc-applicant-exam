@@ -92,7 +92,7 @@ Create a function that mutates the object to output:
     ...and so on
 ]
 ```
-## Part 2 - Responsive Menu Layout
+## Part 2 - Responsive Layout Menu
 Using the provided HTML file inside the part 2 folder, kindly create a mobile web prototype that will list ALL the items separated by category from the given JSON object. 
 
 ```javascript
