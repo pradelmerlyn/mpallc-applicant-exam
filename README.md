@@ -62,8 +62,73 @@ Kindly put your code on the provided .js file inside the part 1 folder.
     ...and so on
 ]
 ```
-## Part 2 - Javascript Coding Challenge
-Using the provided HTML file inside the part 2 folder, please create a mobile web prototype that will list ALL the items separated by category from the given JSON object. 
+## Part 2 - Styling and Logic
+Using the provided HTML file inside the part 2 folder, kindly create a mobile web prototype that will list ALL the items separated by category from the given JSON object. 
+
+```javascript
+const menuData = {
+    "menus": {
+        "m001": {
+            "parent": "m000",
+            "title": "Breakfast Menu"
+        },
+        "m002": {
+            "parent": "m000",
+            "title": "Lunch Menu"
+        },
+        "m003": {
+            "parent": "m000",
+            "title": "Dinner Menu"
+        },
+        "m004": {
+            "parent": "m100",
+            "title": "Specials"
+        },
+        "d001": {
+            "parent": "m001",
+            "prepTimeMin": 5,
+            "title": "Pancakes",
+            "price": 110,
+        },
+        "d002": {
+            "parent": "m002",
+            "prepTimeMin": 10,
+            "title": "Red Snapper",
+            "price": 825,
+        },
+        "d003": {
+            "parent": "m002",
+            "prepTimeMin": 12,
+            "title": "Lobster",
+            "price": 1200,
+        },
+        "d004": {
+            "parent": "m001",
+            "prepTimeMin": 10,
+            "title": "Apple Pie",
+            "price": 125,
+        },
+        "d005": {
+            "parent": "m003",
+            "prepTimeMin": 10,
+            "title": "Grouper Fillet",
+            "price": 650,
+        },
+        "d006": {
+            "parent": "m003",
+            "prepTimeMin": 12,
+            "title": "Cowboy Chicken",
+            "price": 530,
+        },
+        "d007": {
+            "parent": "m004",
+            "prepTimeMin": 10,
+            "title": "Wagyu Steak",
+            "price": 1200,
+        }
+    }
+};
+```
 
 Feel free to style your work the way you wanted but you must follow the format from the given image below for displaying the items.
 
