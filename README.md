@@ -22,7 +22,7 @@ Kindly put your code on the provided .js file inside the part 1 folder.
 			"50" : 1
 		}
  ```
-2. Using the <a href="http://jsonplaceholder.typicode.com/" target="_blank">JSONPlaceholder service(http://jsonplaceholder.typicode.com/)</a>, create a function that makes two 
+2. Using the <a href="http://jsonplaceholder.typicode.com/" target="_blank">JSONPlaceholder service(http://jsonplaceholder.typicode.com/)</a>, create a function that makes 
 	 http requests from <a href="http://jsonplaceholder.typicode.com/users" target="_blank">http://jsonplaceholder.typicode.com/users</a> and <a href="http://jsonplaceholder.typicode.com/posts" target="_blank">http://jsonplaceholder.typicode.com/posts</a> 
 	 and then create the following json object format from the results:
 ```
