@@ -11,7 +11,7 @@ Included in this repository are two folders containing the two parts of the exam
 ## Part 1 - Javascript Coding Challenge
 Kindly put your code on the provided .js file inside the part 1 folder.
 
-1. Create a function that split the bills in a given amount
+1. Create a function that can breakdown the bills in a given amount
 ```
 	Example:
 		input: 2653
