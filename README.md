@@ -28,7 +28,7 @@ Kindly put your code on the provided .js file inside the part 1 folder.
 ```
 posts: [
 	{
-		"name": "Leanne Graham",
+	        "name": "Leanne Graham",
 		"username": "Bret",
 		"email": "Sincere@april.biz",
 		posts: [
