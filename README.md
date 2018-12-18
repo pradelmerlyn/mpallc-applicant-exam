@@ -1,6 +1,6 @@
 # MPA LLC Applicant Examination
 
-Included in this repository are two folders as two parts of the exam. Kindly read the instructions carefully.
+Included in this repository are two folders containing the two parts of the exam. Kindly read the instructions carefully.
 
 ## Instructions
 1. Use of frameworks such as React, Vue, Angular, etc. is not allowed.
