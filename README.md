@@ -3,10 +3,10 @@
 Included in this repository are two folders containing the two parts of the exam. Kindly read the instructions carefully.
 
 ## Instructions
-1. Use of frameworks such as React, Vue, Angular, etc. is not allowed.
-2. Use of other libraries is not allowed.
-3. You are only allowed to code in Javascript es5/es6.
-4. Html and styling with css is required and must be responsive.
+1. Use of frameworks such as React, Vue, Angular, etc. is not allowed. (Part 2)
+2. Use of other libraries is not allowed. (Part 1 and 2)
+3. You are only allowed to code in Javascript es5/es6. (Part 1 and 2)
+4. Html and styling with css is required and must be responsive. (Part 2)
 
 ## Part 1 - Javascript Coding Challenge
 Kindly put your code on the provided .js file inside the part 1 folder.
