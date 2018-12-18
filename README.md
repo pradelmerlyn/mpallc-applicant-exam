@@ -2,7 +2,7 @@
 
 Included in this repository are two folders as two parts of the exam. Kindly read the instructions carefully.
 
-## Special Instructions
+## Instructions
 1. Use of frameworks such as React, Vue, Angular, etc. is not allowed.
 2. Use of other libraries is not allowed.
 3. You are only allowed to code in Javascript es5/es6.
@@ -62,6 +62,9 @@ Kindly put your code on the provided .js file inside the part 1 folder.
     ...and so on
 ]
 ```
+## Part 1 - Javascript Coding Challenge
+Using the provided HTML file inside the part 2 folder, please create a mobile web prototype that will list ALL the items separated by category. 
 
-## This plugin is intended for demo purposes only.
-![](https://firebasestorage.googleapis.com/v0/b/github-demo-9415c.appspot.com/o/final.gif?alt=media&token=7e6bec3b-79aa-4a1c-9897-63a262f7d8e7)
+Feel free to style your work the way you wanted but you must follow this format for displaying the items.
+
+![](https://firebasestorage.googleapis.com/v0/b/buzfy-e233d.appspot.com/o/applicant-exam-res%2FScreen%20Shot%202018-12-18%20at%209.25.38%20PM.png?alt=media&token=c3c5404a-1293-461e-a5a8-d8ac98968f02)
