@@ -62,9 +62,10 @@ Kindly put your code on the provided .js file inside the part 1 folder.
     ...and so on
 ]
 ```
-## Part 1 - Javascript Coding Challenge
-Using the provided HTML file inside the part 2 folder, please create a mobile web prototype that will list ALL the items separated by category. 
+## Part 2 - Javascript Coding Challenge
+Using the provided HTML file inside the part 2 folder, please create a mobile web prototype that will list ALL the items separated by category from the given JSON object. 
 
-Feel free to style your work the way you wanted but you must follow this format for displaying the items.
-
+Feel free to style your work the way you wanted but you must follow the format from the given image below for displaying the items.
 ![](https://firebasestorage.googleapis.com/v0/b/buzfy-e233d.appspot.com/o/applicant-exam-res%2FScreen%20Shot%202018-12-18%20at%209.25.38%20PM.png?alt=media&token=c3c5404a-1293-461e-a5a8-d8ac98968f02)
+
+Good Luck!
