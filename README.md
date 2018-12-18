@@ -27,40 +27,40 @@ Kindly put your code on the provided .js file inside the part 1 folder.
 	 and then create the following json object format from the results:
 ```
 posts: [
+	{
+		"name": "Leanne Graham",
+		"username": "Bret",
+		"email": "Sincere@april.biz",
+		posts: [
 			{
-				"name": "Leanne Graham",
-				"username": "Bret",
-				"email": "Sincere@april.biz",
-				posts: [
-					{
-						"title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-						"body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-					},
-					{
-						"title": "qui est esse",
-    					"body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-					},
-					...and so on
-				]
+				"title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+				"body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
 			},
 			{
-				"name": "Ervin Howell",
-				"username": "Antonette",
-				"email": "Shanna@melissa.tv",
-				posts: [
-					{
-						"title": "in quibusdam tempore odit est dolorem",
-						"body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
-					},
-					{
-						"title": "dolorum ut in voluptas mollitia et saepe quo animi",
-						"body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
-					},
-					...and so on
-				]
+				"title": "qui est esse",
+				"body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
 			},
 			...and so on
 		]
+	},
+	{
+		"name": "Ervin Howell",
+		"username": "Antonette",
+		"email": "Shanna@melissa.tv",
+		posts: [
+			{
+				"title": "in quibusdam tempore odit est dolorem",
+				"body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
+			},
+			{
+				"title": "dolorum ut in voluptas mollitia et saepe quo animi",
+				"body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
+			},
+			...and so on
+		]
+	},
+	...and so on
+]
 ```
 
 ## This plugin is intended for demo purposes only.
